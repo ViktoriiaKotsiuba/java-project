@@ -13,6 +13,7 @@
       <annotatedJdk>${org.checkerframework:jdk8:jar}</annotatedJdk>
   </properties>
 
+	
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
